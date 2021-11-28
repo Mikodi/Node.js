@@ -1,0 +1,15 @@
+@import url("https://netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css");
+
+ul {
+    list-style-type: none;
+}
+
+i {
+    margin-right: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: teal;
+}
+
